@@ -17,7 +17,7 @@ jobs:
           template: classic
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
-          base: metadata
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
