@@ -14,13 +14,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: ../../github-metrics-1.svg
           template: classic
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
-          base: ""
+          base: "metadata"
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_recent_days: 0
           plugin_languages_ignored: css, html, ShaderLab, HLSL
-          config_order: isocalendar, languages
+          config_order: isocalendar, languages, base.metadata
