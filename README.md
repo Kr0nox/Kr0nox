@@ -21,32 +21,4 @@ I use the following tools, IDEs, devices:
 
 <hr>
 
-My current projects include:
-<p>
-The code for our WRO robot for the 2022 season in Senior category, where we are currently qualified for the German Finals. </br>
-It's coded in <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"  style="margin-bottom:-0.7em"></img> using the LeJOS API for our EV3. We use <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"  style="margin-bottom:-0.7em"></img> for coding. </br>
-<a>Repository</a>
-</p>
-<p>
-A <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"  style="margin-bottom:-0.7em"></img> API to provide easier access for receiving and sending signals from and to midi devices. </br>
-<a>Repository</a>
-</p>
-
-<hr>
-
-Some older projects are:
-
-<p>
-Multiple games for Ludum Dare and other Game Jams, you can find here: </br>
-<a>Ludum Dare</a></br>
-<a>My itch.io</a>
-</p>
-
-<p>
-An older version of my midi mapping done in <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom:-0.7em"></img>. </br>
-<a>Repository</a>
-</p>
-
-<hr>
-
 ![Calendar](./github-metrics-calendar.svg)
