@@ -1,24 +1,27 @@
-<h1> Hello There :v: </h1>
-I'm Konox, a <b>german computer science student</b> at the Karlsruher Institut of Technology. <br>
-I mostly code for fun or applications to increase my own productivity. But i also often take part in Game Jams like <b>Ludum Dare</b>. I also reaguarly take part in <b>Lego robotics competitions</b> like FLL and WRO. 
+## Hello There :v: 
+I'm Alex, a **computer science student** at the Karlsruher Institut of Technology.
 
-<hr>
-I mainly code in the following languages:
- 
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+I mostly do front-end development, but I also take part in Game Jams like Ludum Dare and code applications too. In the past I also took part in Robot Competitions like FLL and WRO.
 
-I use the following tools, IDEs, devices:
+---
+### Tools
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue js" height="40">](https://www.vuejs.org)
+[<img src="https://github.com/Kr0nox/Kr0nox/assets/39801116/5691f87c-77b2-455e-a708-47d504f9ce9d" alt="typescript" height="40">](https://www.typescriptlang.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind css" height="40">](https://www.tailwindcss.com)
+[<img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="java" height="40">](https://www.java.com)
+[<img src="https://github.com/Kr0nox/Kr0nox/assets/39801116/68a84777-1606-4675-b3d6-3e60b517d1eb" alt="godot" height="40">](https://www.godotengine.org)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="c sharp" height="40">]()
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" height="40">](https://www.python.org)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html 5" height="40">]()
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css 3" height="40">]()
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="40">]()
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+---
+### Projects
 
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white) ![Wear OS](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-<hr>
-
+---
 ![Statistics](./github-metrics.svg)
-
+<!--
 <hr>
 
 ![Calendar](./github-metrics-calendar.svg)
